@@ -1,11 +1,10 @@
 {
     "name": "EdgersPack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/TheAmyChi/edgers-pack",
     "description": "The official modpack for people that are living on the edge.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "Ooseykins-LethalVRM-1.0.7",
         "TopraksuK-FreeBirdTotemRemixJester-1.0.1",
         "2018-LC_API-3.3.2",
         "notnotnotswipez-MoreCompany-1.7.4",
